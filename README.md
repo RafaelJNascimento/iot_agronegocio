@@ -33,5 +33,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
     Rafael J. do Nascimento, Paloma N. L. Lima, Lucas G.G. dos Santos, Bárbara V. Cavalcante</br></br>
     Departamento de Engenharia – Universidade Federal do Ceará (UFC)</br>
     Campus Sobral</br>
-    Caixa Postal 6025 – 62.010-560 – Sobral – CE – Brazi</br>
+    Caixa Postal 6025 – 62.010-560 – Sobral – CE</br>
 </p>
